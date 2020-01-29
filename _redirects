@@ -1,0 +1,2 @@
+# redirect domain netlify
+https://unboxkode.netlify.com/* https://www.unboxkode.com/:splat 301!
