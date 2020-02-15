@@ -1,10 +1,27 @@
 +++
-title = "Cara Kerja Nat"
-date = "2020-01-28T01:31:23+07:00"
-draft = false
-tags = ["jaringan"]
-categories = ["Dasar Jaringan"]
+authors = [
+    "",
+]
+title = "Cara Kerja NAT"
+date = "2019-03-11"
+description = ""
+tags = [
+    "markdown",
+    "css",
+    "html",
+    "themes",
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
+images = [
+    "markdown-syntax.jpg",
+]
 +++
+
 
 Dari judulnya udah tau menjelaskan cara kerja dari nat, dan digambar depan juga ada. langsung saja ke bahasan yuk.NAT mempunyai fungsi yaitu sebagai translasi sebuah IP address, sehingga dengan adanya NAT ini IP address private dapat dengan mudah mengakses alamat IP public.
 
